@@ -1,0 +1,7 @@
+Shuffle
+It took me 0.000667 seconds to run this 1 times.
+It took me 0.000247 seconds to run this 10 times.
+It took me 0.000206 seconds to run this 100 times.
+It took me 0.000272 seconds to run this 1000 times.
+It took me 5.5e-05 seconds to run this 10000 times.
+It took me 0.000134 seconds to run this 100000 times.

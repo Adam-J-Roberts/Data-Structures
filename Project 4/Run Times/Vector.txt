@@ -1,0 +1,42 @@
+Prepend
+It took me 0.005898 seconds to run this 1 times.
+It took me 0.016392 seconds to run this 10 times.
+It took me 0.067141 seconds to run this 100 times.
+It took me 0.705825 seconds to run this 1000 times.
+It took me 6.05453 seconds to run this 10000 times.
+It took me 441.539 seconds to run this 100000 times.
+Append
+It took me 9.9e-05 seconds to run this 1 times.
+It took me 0.000203 seconds to run this 10 times.
+It took me 0.019674 seconds to run this 100 times.
+It took me 0.025133 seconds to run this 1000 times.
+It took me 0.128154 seconds to run this 10000 times.
+It took me 1.12702 seconds to run this 100000 times.
+Add at i
+It took me 0.00016 seconds to run this 1 times.
+It took me 0.001655 seconds to run this 10 times.
+It took me 0.014426 seconds to run this 100 times.
+It took me 0.158378 seconds to run this 1000 times.
+It took me 3.56399 seconds to run this 10000 times.
+It took me 419.971 seconds to run this 100000 times.
+Reverse
+It took me 0.000671 seconds to run this 1 times.
+It took me 0.001076 seconds to run this 10 times.
+It took me 0.00495 seconds to run this 100 times.
+It took me 0.013444 seconds to run this 1000 times.
+It took me 0.127929 seconds to run this 10000 times.
+It took me 0.989948 seconds to run this 100000 times.
+Shuffle
+It took me 0.000674 seconds to run this 1 times.
+It took me 0.00461 seconds to run this 10 times.
+It took me 0.021553 seconds to run this 100 times.
+It took me 0.212046 seconds to run this 1000 times.
+It took me 0.654443 seconds to run this 10000 times.
+It took me 6.28273 seconds to run this 100000 times.
+Rotate
+It took me 0.000697 seconds to run this 1 times.
+It took me 0.001458 seconds to run this 10 times.
+It took me 0.001313 seconds to run this 100 times.
+It took me 0.001421 seconds to run this 1000 times.
+It took me 0.004715 seconds to run this 10000 times.
+It took me 0.015548 seconds to run this 100000 times.
